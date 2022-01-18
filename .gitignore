@@ -1,3 +1,7 @@
 habitat-lab
 .idea
 __pycache__
+
+
+*.ipynb
+!*_example.ipynb
